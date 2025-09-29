@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ddsak\\Desktop\\Arpa\\Practica 1 Solucion\\",
+  "WorkspaceRootPath": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica 1 Solucion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B9291F0-9E74-4A17-A906-36BE28924691}|Practica 1\\Practica 1.vcxproj|C:\\Users\\ddsak\\Desktop\\Arpa\\Practica 1 Solucion\\Practica 1\\Practica1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5B9291F0-9E74-4A17-A906-36BE28924691}|Practica 1\\Practica 1.vcxproj|C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica 1 Solucion\\Practica 1\\Practica1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5B9291F0-9E74-4A17-A906-36BE28924691}|Practica 1\\Practica 1.vcxproj|solutionrelative:Practica 1\\Practica1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Practica1.cpp",
-              "DocumentMoniker": "C:\\Users\\ddsak\\Desktop\\Arpa\\Practica 1 Solucion\\Practica 1\\Practica1.cpp",
+              "DocumentMoniker": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica 1 Solucion\\Practica 1\\Practica1.cpp",
               "RelativeDocumentMoniker": "Practica 1\\Practica1.cpp",
-              "ToolTip": "C:\\Users\\ddsak\\Desktop\\Arpa\\Practica 1 Solucion\\Practica 1\\Practica1.cpp",
+              "ToolTip": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica 1 Solucion\\Practica 1\\Practica1.cpp",
               "RelativeToolTip": "Practica 1\\Practica1.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-17T07:36:58.715Z",
               "EditorCaption": ""

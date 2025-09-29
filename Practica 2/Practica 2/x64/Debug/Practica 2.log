@@ -1,0 +1,3 @@
+﻿  Practica2.cpp
+C:\Users\ddsak\Desktop\Arpa\Arpa-Practicas-Equipo\Practica 2\Practica 2\Practica2.cpp(54,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Practica 2.vcxproj -> C:\Users\ddsak\Desktop\Arpa\Arpa-Practicas-Equipo\Practica 2\x64\Debug\Practica 2.exe
