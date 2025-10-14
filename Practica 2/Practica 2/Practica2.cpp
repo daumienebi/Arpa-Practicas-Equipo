@@ -56,7 +56,9 @@ int main(int argc, char* argv[])
         for (int i = 0; i < N * N; i++) {
             A[i] = rand() % 50 + 1;
             printf("%3d ", A[i]);
-            if ((i + 1) % N == 0) printf("\n");
+            if ((i + 1) % N == 0) {
+                printf("\n");
+            }
         }
 
         printf("\nMatriz B:\n");
