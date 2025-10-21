@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A42CEBF6-0E30-4652-B39B-10A018AFCC0D}|Practica5\\Practica5.vcxproj|C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica5\\Practica5\\Practica5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A42CEBF6-0E30-4652-B39B-10A018AFCC0D}|Practica5\\Practica5.vcxproj|solutionrelative:Practica5\\Practica5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practica5.cpp",
+              "DocumentMoniker": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica5\\Practica5\\Practica5.cpp",
+              "RelativeDocumentMoniker": "Practica5\\Practica5.cpp",
+              "ToolTip": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica5\\Practica5\\Practica5.cpp",
+              "RelativeToolTip": "Practica5\\Practica5.cpp",
+              "ViewState": "AgIAALIAAAAAAAAAAADwv8cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T21:05:54.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
