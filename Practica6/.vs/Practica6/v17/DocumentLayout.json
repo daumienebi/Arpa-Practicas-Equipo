@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{647A0724-9247-4236-8745-03EACC2875ED}|Practica6\\Practica6.vcxproj|C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica6\\Practica6\\Practica6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{647A0724-9247-4236-8745-03EACC2875ED}|Practica6\\Practica6.vcxproj|solutionrelative:Practica6\\Practica6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practica6.cpp",
+              "DocumentMoniker": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica6\\Practica6\\Practica6.cpp",
+              "RelativeDocumentMoniker": "Practica6\\Practica6.cpp",
+              "ToolTip": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica6\\Practica6\\Practica6.cpp",
+              "RelativeToolTip": "Practica6\\Practica6.cpp",
+              "ViewState": "AgIAAAUBAAAAAAAAAADwvyABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T16:38:12.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
