@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Hijo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAAC362C-1060-416B-8AC6-9B1A8BC3A8FC}|Practica8_Hijo\\Practica8_Hijo.vcxproj|C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Hijo\\Practica8_Hijo\\Practica8_Hijo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAAC362C-1060-416B-8AC6-9B1A8BC3A8FC}|Practica8_Hijo\\Practica8_Hijo.vcxproj|solutionrelative:Practica8_Hijo\\Practica8_Hijo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BAAC362C-1060-416B-8AC6-9B1A8BC3A8FC}|Practica8_Hijo\\Practica8_Hijo.vcxproj|C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Hijo\\Practica8_Hijo\\practica8_hijo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAAC362C-1060-416B-8AC6-9B1A8BC3A8FC}|Practica8_Hijo\\Practica8_Hijo.vcxproj|solutionrelative:Practica8_Hijo\\practica8_hijo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Practica8_Hijo.cpp",
-              "DocumentMoniker": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Hijo\\Practica8_Hijo\\Practica8_Hijo.cpp",
-              "RelativeDocumentMoniker": "Practica8_Hijo\\Practica8_Hijo.cpp",
-              "ToolTip": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Hijo\\Practica8_Hijo\\Practica8_Hijo.cpp",
-              "RelativeToolTip": "Practica8_Hijo\\Practica8_Hijo.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAWwCwAAAArAAAAAAAAAA==",
+              "Title": "practica8_hijo.cpp",
+              "DocumentMoniker": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Hijo\\Practica8_Hijo\\practica8_hijo.cpp",
+              "RelativeDocumentMoniker": "Practica8_Hijo\\practica8_hijo.cpp",
+              "ToolTip": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Hijo\\Practica8_Hijo\\practica8_hijo.cpp",
+              "RelativeToolTip": "Practica8_Hijo\\practica8_hijo.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-10T13:21:37.939Z",
               "EditorCaption": ""

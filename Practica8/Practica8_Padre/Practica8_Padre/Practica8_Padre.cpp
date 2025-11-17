@@ -70,11 +70,11 @@ int main(int argc, char *argv[]) {
        - &intercomm: Intercomunicador creado (salida)
        - MPI_ERRCODES_IGNORE: Ignorar códigos de error individuales
     */
-    int resultado = MPI_Comm_spawn((char*)"Practica8_Hijo.exe",MPI_ARGV_NULL,num_hijos,MPI_INFO_NULL,
+    int resultado = MPI_Comm_spawn((char*)"C:\\Users\\ddsak\\Desktop\\practica8_hijo.exe",MPI_ARGV_NULL,num_hijos,MPI_INFO_NULL,
                     0,MPI_COMM_WORLD,&intercomm,MPI_ERRCODES_IGNORE);
     if (resultado != MPI_SUCCESS) {
         printf("[PADRE] ERROR: No se pudieron lanzar los procesos hijo.\n");
-        printf("[PADRE] Verifica que 'Practica8_Hijo.exe' este en el mismo directorio.\n");
+        printf("[PADRE] Verifica que 'practica8_hijo.exe' este en el mismo directorio.\n");
         MPI_Finalize();
         return 1;
     }

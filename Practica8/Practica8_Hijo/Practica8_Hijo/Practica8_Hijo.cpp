@@ -87,8 +87,8 @@ int main(int argc, char* argv[]) {
         printf("[HIJO %d] Saludo recibido de hijo 0: \"%s\"\n", mirango, saludo_recibido);
     }
     // Sincronizar antes de finalizar
-    MPI_Barrier(intracomm);
+    MPI_Barrier(intracomm); 
     printf("[HIJO %d] Finalizando...\n", mirango);
     MPI_Finalize();
     return 0;
-}
+}

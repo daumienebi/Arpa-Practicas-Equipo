@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Padre\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{910B90DD-9C20-4B1F-9521-0A0389BF3B28}|Practica8_Padre\\Practica8_Padre.vcxproj|C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Padre\\Practica8_Padre\\Practica8_Padre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{910B90DD-9C20-4B1F-9521-0A0389BF3B28}|Practica8_Padre\\Practica8_Padre.vcxproj|solutionrelative:Practica8_Padre\\Practica8_Padre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{910B90DD-9C20-4B1F-9521-0A0389BF3B28}|Practica8_Padre\\Practica8_Padre.vcxproj|C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Padre\\Practica8_Padre\\practica8_padre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{910B90DD-9C20-4B1F-9521-0A0389BF3B28}|Practica8_Padre\\Practica8_Padre.vcxproj|solutionrelative:Practica8_Padre\\practica8_padre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Practica8_Padre.cpp",
-              "DocumentMoniker": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Padre\\Practica8_Padre\\Practica8_Padre.cpp",
-              "RelativeDocumentMoniker": "Practica8_Padre\\Practica8_Padre.cpp",
-              "ToolTip": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Padre\\Practica8_Padre\\Practica8_Padre.cpp",
-              "RelativeToolTip": "Practica8_Padre\\Practica8_Padre.cpp",
-              "ViewState": "AgIAACMAAAAAAAAAAAAWwDAAAAAZAAAAAAAAAA==",
+              "Title": "practica8_padre.cpp",
+              "DocumentMoniker": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Padre\\Practica8_Padre\\practica8_padre.cpp",
+              "RelativeDocumentMoniker": "Practica8_Padre\\practica8_padre.cpp",
+              "ToolTip": "C:\\Users\\ddsak\\Desktop\\Arpa\\Arpa-Practicas-Equipo\\Practica8\\Practica8_Padre\\Practica8_Padre\\practica8_padre.cpp",
+              "RelativeToolTip": "Practica8_Padre\\practica8_padre.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEsAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-10T14:05:37.324Z",
               "EditorCaption": ""
