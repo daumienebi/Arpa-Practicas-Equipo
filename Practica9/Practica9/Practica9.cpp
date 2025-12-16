@@ -214,7 +214,8 @@ void strassen_paralelo(float** A, float** B, float** C, int n, MPI_Comm comm) {
             }
 
             if (i < num_procesos) {
-                MPI_Recv(P_target[0], n_half * n_half, MPI_FLOAT, i, i, comm, MPI_STATUS_IGNORE);
+                MPI_Recv(P_target[0], n_half * n_half, MPI_FLOAT, i, i,
+                    comm, MPI_STATUS_IGNORE);
             }
             else {
                 // Nadie calculó esta P. La calculo secuencialmente.
@@ -370,7 +371,6 @@ void dividir_matriz(float** A, float** A11, float** A12, float** A21, float** A2
         }
     }
 }
-
 
 // Monta la matriz C a partir de sus 4 cuadrantes.
 void unir_matrices(float** C11, float** C12, float** C21, float** C22, float** C, int n_half) {
